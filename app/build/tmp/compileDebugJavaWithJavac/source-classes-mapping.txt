@@ -1,0 +1,13 @@
+com/example/kalkulator/MainActivity.java
+ com.example.kalkulator.MainActivity
+com/example/kalkulator/PertamaFragment.java
+ com.example.kalkulator.PertamaFragment
+ com.example.kalkulator.PertamaFragment$1
+com/example/kalkulator/KetigaFragment.java
+ com.example.kalkulator.KetigaFragment
+ com.example.kalkulator.KetigaFragment$1
+com/example/kalkulator/KeduaFragment.java
+ com.example.kalkulator.KeduaFragment
+ com.example.kalkulator.KeduaFragment$1
+com/example/kalkulator/BuildConfig.java
+ com.example.kalkulator.BuildConfig
